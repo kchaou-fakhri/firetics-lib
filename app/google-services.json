@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "203208592851",
+    "firebase_url": "https://e-learning-cd263-default-rtdb.firebaseio.com",
+    "project_id": "e-learning-cd263",
+    "storage_bucket": "e-learning-cd263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203208592851:android:e1501ebadb4be2df3c7326",
+        "android_client_info": {
+          "package_name": "com.eljem.rabta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203208592851-tg7fvtegur3e6qifl75lhsar4bafhnh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5w1xBL-DNcn_F4kEzkSaVRvFipkQRVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203208592851-tg7fvtegur3e6qifl75lhsar4bafhnh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203208592851:android:9be19eb6dae76a233c7326",
+        "android_client_info": {
+          "package_name": "com.kchaou.fireticslib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203208592851-tg7fvtegur3e6qifl75lhsar4bafhnh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5w1xBL-DNcn_F4kEzkSaVRvFipkQRVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203208592851-tg7fvtegur3e6qifl75lhsar4bafhnh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
