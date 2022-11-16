@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val db = Firebase
 
+
+
         firetics = Firetics(db, this)
         firetics.put.start()
         firetics.get.get().observe(this, Observer {
